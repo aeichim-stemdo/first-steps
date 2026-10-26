@@ -1,0 +1,11 @@
+Microsoft Windows [Versión 10.0.26200.9711]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\aeichim>git clone https://github.com/aeichim-stemdo/first-steps.git
+Cloning into 'first-steps'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+C:\Users\aeichim>
